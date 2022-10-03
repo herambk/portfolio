@@ -78,7 +78,7 @@ a:active {
   max-width: 100%;
 }
 
-.shoebumLogo {
+.herambLogo {
   height: 32px;
 }
 
@@ -92,7 +92,7 @@ a.navLogo:active {
   background: none;
 }
 
-.shoebumLogo:active {
+.herambLogo:active {
   transform: scale(0.9);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
